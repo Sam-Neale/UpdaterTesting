@@ -1,0 +1,19 @@
+{
+  "name": "updatertesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "auto-updater": {
+    "repo": "/sam-neale/UpdaterTesting",
+    "branch": "master"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "auto-updater": "^1.0.2"
+  }
+}
