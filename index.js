@@ -1,5 +1,8 @@
 var AutoUpdater = require('auto-updater');
 
+console.log("THIS IS PART OF THE NEW UPDATE");
+
+
 var autoupdater = new AutoUpdater({
     pathToJson: '',
     autoupdate: false,
